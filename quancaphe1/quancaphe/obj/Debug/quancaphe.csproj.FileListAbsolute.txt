@@ -1,0 +1,220 @@
+C:\Users\duc trong\Desktop\sql\quancaphe\quancaphe\bin\quancaphe.dll.config
+C:\Users\duc trong\Desktop\sql\quancaphe\quancaphe\bin\quancaphe.dll
+C:\Users\duc trong\Desktop\sql\quancaphe\quancaphe\bin\quancaphe.pdb
+C:\Users\duc trong\Desktop\sql\quancaphe\quancaphe\bin\roslyn\csc.exe
+C:\Users\duc trong\Desktop\sql\quancaphe\quancaphe\bin\roslyn\csc.exe.config
+C:\Users\duc trong\Desktop\sql\quancaphe\quancaphe\bin\roslyn\csc.rsp
+C:\Users\duc trong\Desktop\sql\quancaphe\quancaphe\bin\roslyn\csi.exe
+C:\Users\duc trong\Desktop\sql\quancaphe\quancaphe\bin\roslyn\csi.exe.config
+C:\Users\duc trong\Desktop\sql\quancaphe\quancaphe\bin\roslyn\csi.rsp
+C:\Users\duc trong\Desktop\sql\quancaphe\quancaphe\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\duc trong\Desktop\sql\quancaphe\quancaphe\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\duc trong\Desktop\sql\quancaphe\quancaphe\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\duc trong\Desktop\sql\quancaphe\quancaphe\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\duc trong\Desktop\sql\quancaphe\quancaphe\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\duc trong\Desktop\sql\quancaphe\quancaphe\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\duc trong\Desktop\sql\quancaphe\quancaphe\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\duc trong\Desktop\sql\quancaphe\quancaphe\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\duc trong\Desktop\sql\quancaphe\quancaphe\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\duc trong\Desktop\sql\quancaphe\quancaphe\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\duc trong\Desktop\sql\quancaphe\quancaphe\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\duc trong\Desktop\sql\quancaphe\quancaphe\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\duc trong\Desktop\sql\quancaphe\quancaphe\bin\roslyn\System.AppContext.dll
+C:\Users\duc trong\Desktop\sql\quancaphe\quancaphe\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\duc trong\Desktop\sql\quancaphe\quancaphe\bin\roslyn\System.Console.dll
+C:\Users\duc trong\Desktop\sql\quancaphe\quancaphe\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\duc trong\Desktop\sql\quancaphe\quancaphe\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\duc trong\Desktop\sql\quancaphe\quancaphe\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\duc trong\Desktop\sql\quancaphe\quancaphe\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\duc trong\Desktop\sql\quancaphe\quancaphe\bin\roslyn\System.IO.Compression.dll
+C:\Users\duc trong\Desktop\sql\quancaphe\quancaphe\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\duc trong\Desktop\sql\quancaphe\quancaphe\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\duc trong\Desktop\sql\quancaphe\quancaphe\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\duc trong\Desktop\sql\quancaphe\quancaphe\bin\roslyn\System.Net.Http.dll
+C:\Users\duc trong\Desktop\sql\quancaphe\quancaphe\bin\roslyn\System.Net.Sockets.dll
+C:\Users\duc trong\Desktop\sql\quancaphe\quancaphe\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\duc trong\Desktop\sql\quancaphe\quancaphe\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\duc trong\Desktop\sql\quancaphe\quancaphe\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\duc trong\Desktop\sql\quancaphe\quancaphe\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\duc trong\Desktop\sql\quancaphe\quancaphe\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\duc trong\Desktop\sql\quancaphe\quancaphe\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\duc trong\Desktop\sql\quancaphe\quancaphe\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\duc trong\Desktop\sql\quancaphe\quancaphe\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\duc trong\Desktop\sql\quancaphe\quancaphe\bin\roslyn\System.ValueTuple.dll
+C:\Users\duc trong\Desktop\sql\quancaphe\quancaphe\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\duc trong\Desktop\sql\quancaphe\quancaphe\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\duc trong\Desktop\sql\quancaphe\quancaphe\bin\roslyn\System.Xml.XPath.dll
+C:\Users\duc trong\Desktop\sql\quancaphe\quancaphe\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\duc trong\Desktop\sql\quancaphe\quancaphe\bin\roslyn\vbc.exe
+C:\Users\duc trong\Desktop\sql\quancaphe\quancaphe\bin\roslyn\vbc.exe.config
+C:\Users\duc trong\Desktop\sql\quancaphe\quancaphe\bin\roslyn\vbc.rsp
+C:\Users\duc trong\Desktop\sql\quancaphe\quancaphe\bin\roslyn\VBCSCompiler.exe
+C:\Users\duc trong\Desktop\sql\quancaphe\quancaphe\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\duc trong\Desktop\sql\quancaphe\quancaphe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\duc trong\Desktop\sql\quancaphe\quancaphe\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\duc trong\Desktop\sql\quancaphe\quancaphe\bin\System.Web.Helpers.dll
+C:\Users\duc trong\Desktop\sql\quancaphe\quancaphe\bin\System.Web.Mvc.dll
+C:\Users\duc trong\Desktop\sql\quancaphe\quancaphe\bin\System.Web.Razor.dll
+C:\Users\duc trong\Desktop\sql\quancaphe\quancaphe\bin\System.Web.Webpages.Deployment.dll
+C:\Users\duc trong\Desktop\sql\quancaphe\quancaphe\bin\System.Web.Webpages.dll
+C:\Users\duc trong\Desktop\sql\quancaphe\quancaphe\bin\System.Web.Webpages.Razor.dll
+C:\Users\duc trong\Desktop\sql\quancaphe\quancaphe\bin\System.Web.Razor.xml
+C:\Users\duc trong\Desktop\sql\quancaphe\quancaphe\bin\System.Web.Webpages.xml
+C:\Users\duc trong\Desktop\sql\quancaphe\quancaphe\bin\System.Web.Webpages.Deployment.xml
+C:\Users\duc trong\Desktop\sql\quancaphe\quancaphe\bin\System.Web.Webpages.Razor.xml
+C:\Users\duc trong\Desktop\sql\quancaphe\quancaphe\bin\System.Web.Helpers.xml
+C:\Users\duc trong\Desktop\sql\quancaphe\quancaphe\bin\System.Web.Mvc.xml
+C:\Users\duc trong\Desktop\sql\quancaphe\quancaphe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\duc trong\Desktop\sql\quancaphe\quancaphe\obj\Debug\quancaphe.csproj.AssemblyReference.cache
+C:\Users\duc trong\Desktop\sql\quancaphe\quancaphe\obj\Debug\quancaphe.csproj.CoreCompileInputs.cache
+C:\Users\duc trong\Desktop\sql\quancaphe\quancaphe\obj\Debug\quancaphe.csproj.CopyComplete
+C:\Users\duc trong\Desktop\sql\quancaphe\quancaphe\obj\Debug\quancaphe.dll
+C:\Users\duc trong\Desktop\sql\quancaphe\quancaphe\obj\Debug\quancaphe.pdb
+C:\Users\duc trong\Desktop\quancaphe - Copy\quancaphe\bin\quancaphe.dll.config
+C:\Users\duc trong\Desktop\quancaphe - Copy\quancaphe\bin\quancaphe.dll
+C:\Users\duc trong\Desktop\quancaphe - Copy\quancaphe\bin\quancaphe.pdb
+C:\Users\duc trong\Desktop\quancaphe - Copy\quancaphe\bin\roslyn\csc.exe
+C:\Users\duc trong\Desktop\quancaphe - Copy\quancaphe\bin\roslyn\csc.exe.config
+C:\Users\duc trong\Desktop\quancaphe - Copy\quancaphe\bin\roslyn\csc.rsp
+C:\Users\duc trong\Desktop\quancaphe - Copy\quancaphe\bin\roslyn\csi.exe
+C:\Users\duc trong\Desktop\quancaphe - Copy\quancaphe\bin\roslyn\csi.exe.config
+C:\Users\duc trong\Desktop\quancaphe - Copy\quancaphe\bin\roslyn\csi.rsp
+C:\Users\duc trong\Desktop\quancaphe - Copy\quancaphe\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\duc trong\Desktop\quancaphe - Copy\quancaphe\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\duc trong\Desktop\quancaphe - Copy\quancaphe\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\duc trong\Desktop\quancaphe - Copy\quancaphe\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\duc trong\Desktop\quancaphe - Copy\quancaphe\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\duc trong\Desktop\quancaphe - Copy\quancaphe\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\duc trong\Desktop\quancaphe - Copy\quancaphe\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\duc trong\Desktop\quancaphe - Copy\quancaphe\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\duc trong\Desktop\quancaphe - Copy\quancaphe\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\duc trong\Desktop\quancaphe - Copy\quancaphe\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\duc trong\Desktop\quancaphe - Copy\quancaphe\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\duc trong\Desktop\quancaphe - Copy\quancaphe\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\duc trong\Desktop\quancaphe - Copy\quancaphe\bin\roslyn\System.AppContext.dll
+C:\Users\duc trong\Desktop\quancaphe - Copy\quancaphe\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\duc trong\Desktop\quancaphe - Copy\quancaphe\bin\roslyn\System.Console.dll
+C:\Users\duc trong\Desktop\quancaphe - Copy\quancaphe\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\duc trong\Desktop\quancaphe - Copy\quancaphe\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\duc trong\Desktop\quancaphe - Copy\quancaphe\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\duc trong\Desktop\quancaphe - Copy\quancaphe\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\duc trong\Desktop\quancaphe - Copy\quancaphe\bin\roslyn\System.IO.Compression.dll
+C:\Users\duc trong\Desktop\quancaphe - Copy\quancaphe\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\duc trong\Desktop\quancaphe - Copy\quancaphe\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\duc trong\Desktop\quancaphe - Copy\quancaphe\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\duc trong\Desktop\quancaphe - Copy\quancaphe\bin\roslyn\System.Net.Http.dll
+C:\Users\duc trong\Desktop\quancaphe - Copy\quancaphe\bin\roslyn\System.Net.Sockets.dll
+C:\Users\duc trong\Desktop\quancaphe - Copy\quancaphe\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\duc trong\Desktop\quancaphe - Copy\quancaphe\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\duc trong\Desktop\quancaphe - Copy\quancaphe\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\duc trong\Desktop\quancaphe - Copy\quancaphe\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\duc trong\Desktop\quancaphe - Copy\quancaphe\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\duc trong\Desktop\quancaphe - Copy\quancaphe\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\duc trong\Desktop\quancaphe - Copy\quancaphe\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\duc trong\Desktop\quancaphe - Copy\quancaphe\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\duc trong\Desktop\quancaphe - Copy\quancaphe\bin\roslyn\System.ValueTuple.dll
+C:\Users\duc trong\Desktop\quancaphe - Copy\quancaphe\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\duc trong\Desktop\quancaphe - Copy\quancaphe\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\duc trong\Desktop\quancaphe - Copy\quancaphe\bin\roslyn\System.Xml.XPath.dll
+C:\Users\duc trong\Desktop\quancaphe - Copy\quancaphe\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\duc trong\Desktop\quancaphe - Copy\quancaphe\bin\roslyn\vbc.exe
+C:\Users\duc trong\Desktop\quancaphe - Copy\quancaphe\bin\roslyn\vbc.exe.config
+C:\Users\duc trong\Desktop\quancaphe - Copy\quancaphe\bin\roslyn\vbc.rsp
+C:\Users\duc trong\Desktop\quancaphe - Copy\quancaphe\bin\roslyn\VBCSCompiler.exe
+C:\Users\duc trong\Desktop\quancaphe - Copy\quancaphe\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\duc trong\Desktop\quancaphe - Copy\quancaphe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\duc trong\Desktop\quancaphe - Copy\quancaphe\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\duc trong\Desktop\quancaphe - Copy\quancaphe\bin\System.Web.Helpers.dll
+C:\Users\duc trong\Desktop\quancaphe - Copy\quancaphe\bin\System.Web.Mvc.dll
+C:\Users\duc trong\Desktop\quancaphe - Copy\quancaphe\bin\System.Web.Razor.dll
+C:\Users\duc trong\Desktop\quancaphe - Copy\quancaphe\bin\System.Web.Webpages.Deployment.dll
+C:\Users\duc trong\Desktop\quancaphe - Copy\quancaphe\bin\System.Web.Webpages.dll
+C:\Users\duc trong\Desktop\quancaphe - Copy\quancaphe\bin\System.Web.Webpages.Razor.dll
+C:\Users\duc trong\Desktop\quancaphe - Copy\quancaphe\bin\System.Web.Razor.xml
+C:\Users\duc trong\Desktop\quancaphe - Copy\quancaphe\bin\System.Web.Webpages.xml
+C:\Users\duc trong\Desktop\quancaphe - Copy\quancaphe\bin\System.Web.Webpages.Deployment.xml
+C:\Users\duc trong\Desktop\quancaphe - Copy\quancaphe\bin\System.Web.Webpages.Razor.xml
+C:\Users\duc trong\Desktop\quancaphe - Copy\quancaphe\bin\System.Web.Helpers.xml
+C:\Users\duc trong\Desktop\quancaphe - Copy\quancaphe\bin\System.Web.Mvc.xml
+C:\Users\duc trong\Desktop\quancaphe - Copy\quancaphe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\duc trong\Desktop\quancaphe - Copy\quancaphe\obj\Debug\quancaphe.csproj.AssemblyReference.cache
+C:\Users\duc trong\Desktop\quancaphe - Copy\quancaphe\obj\Debug\quancaphe.csproj.CoreCompileInputs.cache
+C:\Users\duc trong\Desktop\quancaphe - Copy\quancaphe\obj\Debug\quancaphe.csproj.CopyComplete
+C:\Users\duc trong\Desktop\quancaphe - Copy\quancaphe\obj\Debug\quancaphe.dll
+C:\Users\duc trong\Desktop\quancaphe - Copy\quancaphe\obj\Debug\quancaphe.pdb
+C:\Users\duc trong\Desktop\quancaphe1\quancaphe\bin\quancaphe.dll.config
+C:\Users\duc trong\Desktop\quancaphe1\quancaphe\bin\quancaphe.dll
+C:\Users\duc trong\Desktop\quancaphe1\quancaphe\bin\quancaphe.pdb
+C:\Users\duc trong\Desktop\quancaphe1\quancaphe\bin\roslyn\csc.exe
+C:\Users\duc trong\Desktop\quancaphe1\quancaphe\bin\roslyn\csc.exe.config
+C:\Users\duc trong\Desktop\quancaphe1\quancaphe\bin\roslyn\csc.rsp
+C:\Users\duc trong\Desktop\quancaphe1\quancaphe\bin\roslyn\csi.exe
+C:\Users\duc trong\Desktop\quancaphe1\quancaphe\bin\roslyn\csi.exe.config
+C:\Users\duc trong\Desktop\quancaphe1\quancaphe\bin\roslyn\csi.rsp
+C:\Users\duc trong\Desktop\quancaphe1\quancaphe\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\duc trong\Desktop\quancaphe1\quancaphe\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\duc trong\Desktop\quancaphe1\quancaphe\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\duc trong\Desktop\quancaphe1\quancaphe\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\duc trong\Desktop\quancaphe1\quancaphe\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\duc trong\Desktop\quancaphe1\quancaphe\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\duc trong\Desktop\quancaphe1\quancaphe\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\duc trong\Desktop\quancaphe1\quancaphe\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\duc trong\Desktop\quancaphe1\quancaphe\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\duc trong\Desktop\quancaphe1\quancaphe\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\duc trong\Desktop\quancaphe1\quancaphe\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\duc trong\Desktop\quancaphe1\quancaphe\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\duc trong\Desktop\quancaphe1\quancaphe\bin\roslyn\System.AppContext.dll
+C:\Users\duc trong\Desktop\quancaphe1\quancaphe\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\duc trong\Desktop\quancaphe1\quancaphe\bin\roslyn\System.Console.dll
+C:\Users\duc trong\Desktop\quancaphe1\quancaphe\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\duc trong\Desktop\quancaphe1\quancaphe\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\duc trong\Desktop\quancaphe1\quancaphe\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\duc trong\Desktop\quancaphe1\quancaphe\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\duc trong\Desktop\quancaphe1\quancaphe\bin\roslyn\System.IO.Compression.dll
+C:\Users\duc trong\Desktop\quancaphe1\quancaphe\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\duc trong\Desktop\quancaphe1\quancaphe\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\duc trong\Desktop\quancaphe1\quancaphe\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\duc trong\Desktop\quancaphe1\quancaphe\bin\roslyn\System.Net.Http.dll
+C:\Users\duc trong\Desktop\quancaphe1\quancaphe\bin\roslyn\System.Net.Sockets.dll
+C:\Users\duc trong\Desktop\quancaphe1\quancaphe\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\duc trong\Desktop\quancaphe1\quancaphe\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\duc trong\Desktop\quancaphe1\quancaphe\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\duc trong\Desktop\quancaphe1\quancaphe\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\duc trong\Desktop\quancaphe1\quancaphe\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\duc trong\Desktop\quancaphe1\quancaphe\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\duc trong\Desktop\quancaphe1\quancaphe\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\duc trong\Desktop\quancaphe1\quancaphe\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\duc trong\Desktop\quancaphe1\quancaphe\bin\roslyn\System.ValueTuple.dll
+C:\Users\duc trong\Desktop\quancaphe1\quancaphe\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\duc trong\Desktop\quancaphe1\quancaphe\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\duc trong\Desktop\quancaphe1\quancaphe\bin\roslyn\System.Xml.XPath.dll
+C:\Users\duc trong\Desktop\quancaphe1\quancaphe\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\duc trong\Desktop\quancaphe1\quancaphe\bin\roslyn\vbc.exe
+C:\Users\duc trong\Desktop\quancaphe1\quancaphe\bin\roslyn\vbc.exe.config
+C:\Users\duc trong\Desktop\quancaphe1\quancaphe\bin\roslyn\vbc.rsp
+C:\Users\duc trong\Desktop\quancaphe1\quancaphe\bin\roslyn\VBCSCompiler.exe
+C:\Users\duc trong\Desktop\quancaphe1\quancaphe\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\duc trong\Desktop\quancaphe1\quancaphe\bin\EntityFramework.dll
+C:\Users\duc trong\Desktop\quancaphe1\quancaphe\bin\EntityFramework.SqlServer.dll
+C:\Users\duc trong\Desktop\quancaphe1\quancaphe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\duc trong\Desktop\quancaphe1\quancaphe\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\duc trong\Desktop\quancaphe1\quancaphe\bin\System.Web.Helpers.dll
+C:\Users\duc trong\Desktop\quancaphe1\quancaphe\bin\System.Web.Mvc.dll
+C:\Users\duc trong\Desktop\quancaphe1\quancaphe\bin\System.Web.Razor.dll
+C:\Users\duc trong\Desktop\quancaphe1\quancaphe\bin\System.Web.Webpages.Deployment.dll
+C:\Users\duc trong\Desktop\quancaphe1\quancaphe\bin\System.Web.Webpages.dll
+C:\Users\duc trong\Desktop\quancaphe1\quancaphe\bin\System.Web.Webpages.Razor.dll
+C:\Users\duc trong\Desktop\quancaphe1\quancaphe\bin\EntityFramework.xml
+C:\Users\duc trong\Desktop\quancaphe1\quancaphe\bin\EntityFramework.SqlServer.xml
+C:\Users\duc trong\Desktop\quancaphe1\quancaphe\bin\System.Web.Razor.xml
+C:\Users\duc trong\Desktop\quancaphe1\quancaphe\bin\System.Web.Webpages.xml
+C:\Users\duc trong\Desktop\quancaphe1\quancaphe\bin\System.Web.Webpages.Deployment.xml
+C:\Users\duc trong\Desktop\quancaphe1\quancaphe\bin\System.Web.Webpages.Razor.xml
+C:\Users\duc trong\Desktop\quancaphe1\quancaphe\bin\System.Web.Helpers.xml
+C:\Users\duc trong\Desktop\quancaphe1\quancaphe\bin\System.Web.Mvc.xml
+C:\Users\duc trong\Desktop\quancaphe1\quancaphe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\duc trong\Desktop\quancaphe1\quancaphe\obj\Debug\quancaphe.csproj.AssemblyReference.cache
+C:\Users\duc trong\Desktop\quancaphe1\quancaphe\obj\Debug\quancaphe.csproj.CoreCompileInputs.cache
+C:\Users\duc trong\Desktop\quancaphe1\quancaphe\obj\Debug\quancaphe.csproj.CopyComplete
+C:\Users\duc trong\Desktop\quancaphe1\quancaphe\obj\Debug\quancaphe.dll
+C:\Users\duc trong\Desktop\quancaphe1\quancaphe\obj\Debug\quancaphe.pdb
